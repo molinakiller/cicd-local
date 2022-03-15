@@ -25,7 +25,7 @@ package:
 
 publish:
 	@echo publish
-	cd python-application-example && python3 -m twine upload dist/* --config-file /home/pedro/Escritorio/personal/keepcoding/5-CICD/.pypirc --skip-existing
+	cd python-application-example && python3 -m twine upload dist/* --config-file ~/.pypirc --skip-existing
 
 dockerize:
 	@echo docker build
