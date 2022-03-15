@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+src/application_example/__init__.py
+src/application_example/example.py
+src/keepcoodingtest_pedro.egg-info/PKG-INFO
+src/keepcoodingtest_pedro.egg-info/SOURCES.txt
+src/keepcoodingtest_pedro.egg-info/dependency_links.txt
+src/keepcoodingtest_pedro.egg-info/requires.txt
+src/keepcoodingtest_pedro.egg-info/top_level.txt
